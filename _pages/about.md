@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi!! 
 
-I am currently pursuing the M.S. degree in Computer Engineering at the [AISLAb](https://sites.google.com/view/aishongik),  [Hongik University](https://www.hongik.ac.kr/kr/index.do/), Seoul, South Korea. I also received the B.S. degree in Computer Engineering at Hongik University. 
+I am currently pursuing the M.S. degree in Computer Engineering at the [AISLAb](https://sites.google.com/view/aishongik),  [Hongik University](https://www.hongik.ac.kr/), Seoul, South Korea. I also received the B.S. degree in Computer Engineering at Hongik University. 
 
 My research focuses include Machine Learning, Artificial Intelligence, and Software Engineering
 
