@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received my Bachelor's degree at [Hongik University](https://www.hongik.ac.kr/) in Computer Engineering 🎓
+Received my B.S. degree at [Hongik University](https://www.hongik.ac.kr/) in Computer Engineering 🎓
