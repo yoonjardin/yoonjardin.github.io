@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hongik University</p>
     <p>94 Mapo-gu Wausan-ro</p>
     <p>Seoul, Korea</p>
 
