@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Email</a>. pattyyoon@g.hongik.ac.kr
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -20,7 +20,13 @@ social: true # includes social icons at the bottom of the page
 
 Hi!! 
 
-Link to my [ORCID](https://orcid.org/0009-0002-9774-2440/).
+I am currently pursuing the M.S. degree in Computer Engineering at the [AISLAb](https://sites.google.com/view/aishongik), Hongik University, Seoul, South Korea. I also received the B.S. degree in Computer Engineering at Hongik University. 
+
+My research focuses include Machine Learning, Artificial Intelligence, and Software Engineering
+
+Link to my [ORCID](https://orcid.org/0009-0002-9774-2440/) and [Google Scholar](https://scholar.google.com/citations?hl=ko&user=r0a3v68AAAAJ/)
+
+
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
