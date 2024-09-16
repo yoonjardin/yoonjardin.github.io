@@ -190,7 +190,7 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  educations:
     defaults:
       layout: post
     output: true
