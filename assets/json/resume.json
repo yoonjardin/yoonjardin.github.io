@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jungwon Yoon",
+    "label": "Computer Engineering M.S. student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "pattyyoon@g.hongik.ac.kr",
+//    "phone": "(912) 123-4567",
+    "url": "https://yoonjardin.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
+      "city": "Seoul",
+      "countryCode": "Korea",
       "region": "California"
     },
     "profiles": [
