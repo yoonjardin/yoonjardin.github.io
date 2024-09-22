@@ -51,7 +51,18 @@
       "location": "Seoul, South Korea",
       "url": "https://www.hongik.ac.kr/",
       "area": "Computer Engineering",
-      "studyType": "B.S.",
+      "studyType": "Master of Science",
+      "startDate": "2023-03-02",
+      "endDate": "2025-02-22"
+//      "score":,
+//      "courses":
+    },
+    {
+      "institution": "Hongik University",
+      "location": "Seoul, South Korea",
+      "url": "https://www.hongik.ac.kr/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
       "startDate": "2018-03-01",
       "endDate": "2023-02-22"
 //      "score":,
@@ -153,7 +164,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (TOEFL iBT: 106)",
       "icon": "fa-solid fa-hashtag",
       "keyworks": [
         "TOEFL iBT: 106",
@@ -170,7 +181,7 @@
         "Artificial Intelligence",
         "Software Engineering",
         "Biometrics",
-        "Adversarial Attack"
+        "Adversarial Attacks"
       ]
     }
   ]
